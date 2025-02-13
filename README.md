@@ -19,7 +19,7 @@ Pequeño proyecto para la creación de usuarios (empleados y administradores) co
 
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/creator-krixus/konecta.git
+   https://github.com/creator-krixus/domina.git
 2. **Entra en el directorio del proyecto:**
    ```bash
    cd konecta
