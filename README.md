@@ -22,7 +22,7 @@ Pequeño proyecto para la creación de usuarios (empleados y administradores) co
    https://github.com/creator-krixus/domina.git
 2. **Entra en el directorio del proyecto:**
    ```bash
-   cd konecta
+   cd domina
 
 4. **En la carpeta raíz, incluye este archivo .env:**
    ```bash
